@@ -136,11 +136,11 @@ LOGIN_REDIRECT_URL = "users:account"
 LOGOUT_REDIRECT_URL = "users:sign-in"
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = 587
-EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'bobby@didcoding.com'
+EMAIL_HOST = "XXX"
+EMAIL_PORT = "XXX"
+EMAIL_USE_TLS = "XXX"
+EMAIL_HOST_USER = "XXX"
 DISPLAY_NAME = "Auth Dropzone demo email"
-DONOT_REPLY_EMAIL_PASSWORD = 'uqxodcrynkrjcoib'
+DONOT_REPLY_EMAIL_PASSWORD = "XXX"
 
-GOOGLE_API_KEY = "AIzaSyC-GV0ZQvRY7lPNeTZloP1thvUmbm2Tpg4"
+GOOGLE_API_KEY = "XXX"

@@ -43,7 +43,7 @@ var Drop = Dropzone.options.DidDropzone = {
     },
     success: function(file, json){
 
-        alert("Perfect! Now visit your gallery...")      
+        // alert("Perfect! Now visit your gallery...")      
         
     },
 }
