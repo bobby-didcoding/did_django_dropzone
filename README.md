@@ -1,5 +1,5 @@
 # did_django_dropzone
-Django project with a basic user authentication
+Django project that uses Dropzone.js to proces image uploads
 
 1) cd to development directory
 2) mkvirtualenv did_django_dropzone
